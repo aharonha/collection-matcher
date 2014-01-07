@@ -10,7 +10,7 @@ import static org.hamcrest.core.IsNot.not;
 import org.jsystemtest.systemobjects.matcher.CollectionMatcher;
 import org.junit.*;
 
-public class TestCollectionMatcher extends SystemTestCase4{
+public class TestCollectionMatcher{
 	@Test
 	public void testOneItem() {
 		List<Integer> expected = new ArrayList<Integer>();
