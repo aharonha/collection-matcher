@@ -12,17 +12,6 @@
 	</repositories>
 	<dependencies>
 		<dependency>
-			<groupId>org.jsystemtest</groupId>
-			<artifactId>jsystemCommon</artifactId>
-			<version>6.0.02</version>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.jsystemtest.systemobjects</groupId>
-			<artifactId>cli</artifactId>
-			<version>6.0.02</version>
-		</dependency>
-		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.11</version>

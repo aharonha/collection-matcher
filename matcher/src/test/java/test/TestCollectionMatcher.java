@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-import junit.framework.SystemTestCase4;
 import static org.hamcrest.core.IsNot.not;
 
 import org.jsystemtest.systemobjects.matcher.CollectionMatcher;
